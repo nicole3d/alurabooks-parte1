@@ -1,0 +1,11 @@
+/*Juliana Mutter 3ºD*/
+
+hr{
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--branco);
+    padding: 1em;
+    text-align: center;
+}
